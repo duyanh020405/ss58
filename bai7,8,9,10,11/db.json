@@ -1,0 +1,24 @@
+{
+    "posts": [
+      {
+        "name": "qq",
+        "check": false,
+        "email": "ww",
+        "address": "ww",
+        "phone": 111,
+        "id": 2
+      },
+      {
+        "name": "Lão Hạc",
+        "check": false,
+        "email": "kk2@gmail.com",
+        "address": "Làng Vũ Đại",
+        "phone": 3,
+        "id": 4
+      }
+    ],
+    "comments": [],
+    "profile": {
+      "name": "typicode"
+    }
+  }
